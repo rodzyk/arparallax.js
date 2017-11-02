@@ -59,7 +59,7 @@ $('.arparallax').arparallax();
 						<code>jQuery Selector</code>
 					</td>
 					<td>
-						<code>.image</code>
+						<code>.imageContainer</code>
 					</td>
 					<td>The parallax fx will be prepended into this container.</td>
 				</tr>
